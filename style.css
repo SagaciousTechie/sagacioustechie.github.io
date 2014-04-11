@@ -1,0 +1,31 @@
+.img-small {
+	height: 140px;
+	width: auto;
+}
+
+.img-large {
+	height: 500px;
+	width: auto;
+}
+
+.label {
+	font-family: "helvetica neue";
+	font-weight: normal;
+}
+
+.center {
+	text-align: center;
+}
+
+.img-inline {
+	display: inline-block;
+}
+
+#owl-carousel .item{
+  margin: 3px;
+}
+#owl-carousel .item img{
+  display: block;
+  width: 100%;
+  height: auto;
+}
