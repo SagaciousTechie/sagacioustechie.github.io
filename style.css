@@ -34,3 +34,8 @@
 .carousel-inner .item img {
 	max-width: 99999px;
 }
+
+.inline {
+	display: inline;
+	min-width: 100%;
+}
